@@ -398,6 +398,10 @@ blockquote:before {
     display: none;
 }
 
+#menu-main-menu {
+    display: block !important;
+}
+
 @media screen and (max-width: 800px) {
 
     .hamburger-menu {
